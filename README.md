@@ -1,4 +1,5 @@
-### Hi there 👋
+###  
+I'm currently trying to improve myself in the Android field.👩‍💻
 
 <!--
 **GamzeNurAslan/GamzeNurAslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
