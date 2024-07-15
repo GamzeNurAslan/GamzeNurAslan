@@ -12,3 +12,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamzenuraslan&show_icons=true&locale=en&layout=compact" alt="gamzenuraslan" /></p>
 
 <p>&nbsp;<img align="center" 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGamzeNurAslan&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23F99CED&title=hits&edge_flat=false"/></a>
