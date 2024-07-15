@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gamze Nur Aslan</h1>
 <h3 align="center">Computer Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamzenuraslan&label=Profile%20views&color=0e75b6&style=flat" alt="gamzenuraslan" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gamze-nur-aslan2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gamze-nur-aslan2707" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/gamze-nur-aslan2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gamze-nur-aslan2707" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,5 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamzenuraslan&show_icons=true&locale=en&layout=compact" alt="gamzenuraslan" /></p>
 
-<p>&nbsp;<img align="center" 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGamzeNurAslan&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23F99CED&title=hits&edge_flat=false"/></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gamzenuraslan&show_icons=true&locale=en" alt="gamzenuraslan" /></p>
