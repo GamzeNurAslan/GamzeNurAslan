@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/gamze-nur-aslan2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gamze-nur-aslan2707" height="30" width="40" /></a>
 </p>
-<a href="https://medium.com/@kullanıcı_adı" target="_blank">
+<a href="https://medium.com/@aslangamzenur079" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Medium_logo.svg" alt="Medium" style="width: 40px; height: auto; border: none;">
 </a>
 
