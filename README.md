@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8f62281c-07da-475d-945b-6ca315c10c62)<h1 align="center">Hi 👋, I'm Gamze Nur Aslan</h1>                                                                                 
+<h1 align="center">Hi 👋, I'm Gamze Nur Aslan</h1>                                                                                 
 <h3 align="center">Computer Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
