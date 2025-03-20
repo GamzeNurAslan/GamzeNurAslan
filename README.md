@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Gamze%20Nur%20Aslan" alt="Gamze Nur Aslan" style="width: 100%;"/>
                                                                                 
-<div style="display: flex; justify-content: center; width: 100%; ">
+<div style="display: flex; justify-content: center; width: 250%; ">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9AA6B2&width=435&lines=Computer+Engineer" alt="Typing SVG" />
   </a>
