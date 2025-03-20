@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Gamze%20Nur%20Aslan" alt="Gamze Nur Aslan" style="width: 100%;"/>
+
 <h1 align="center">Hi 👋, I'm Gamze Nur Aslan</h1>                                                                                 
 <h3 align="center">Computer Engineer</h3>
 
