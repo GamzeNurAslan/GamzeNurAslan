@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Gamze%20Nur%20Aslan" alt="Gamze Nur Aslan" style="width: 100%;"/>
                                                                                 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C5D3E8&width=435&lines=Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8E8E8&width=435&lines=Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
