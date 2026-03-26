@@ -13,8 +13,7 @@
 </p>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamzenuraslan&show_icons=true&locale=en&layout=compact" alt="gamzenuraslan" /></p>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGamzeNurAslan%2F&count_bg=%23DE99F1&title_bg=%2379F0FF&icon=&icon_color=%2355BEF3&title=hits&edge_flat=false"/></a>
+
 
 
 
