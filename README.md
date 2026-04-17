@@ -1,62 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Gamze%20Nur%20Aslan" alt="Gamze Nur Aslan" style="width:100%;" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E8E8E8&width=435&lines=Computer+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</a>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gamze-nur-aslan2707/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40"/>
-  </a>
-
-  <a href="https://medium.com/@aslangamzenur079" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40"/>
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" style="display:inline-block; margin-right:10px;" />
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="display:inline-block;" />
   </a>
 </p>
 
