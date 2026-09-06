@@ -8,22 +8,27 @@
 
 <div align="center">
 
-### 𖹭 find me here
+## ♡ find me here
 
 <a href="https://www.linkedin.com/in/gamze-nur-aslan2707" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://www.kaggle.com/gamzenuraslan" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
+&nbsp;
 <a href="https://medium.com/@aslangamzenur079" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
-<br><br>
+<br><br><br>
 
-### 𖹭 toolbox
+## ♡ toolbox
 
-<img src="https://skillicons.dev/icons?i=git,python,java,kotlin,html,css,cs,mysql,opencv&theme=dark" />
+<img 
+  src="https://skillicons.dev/icons?i=git,python,java,kotlin,html,css,cs,mysql,opencv&theme=dark"
+  height="70"
+/>
 
 </div>
