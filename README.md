@@ -10,15 +10,15 @@
 
 ## ✦ let's connect
 
-<a href="https://www.linkedin.com/in/gamze-nur-aslan2707" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/gamze-nur-aslan2707" target="blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://www.kaggle.com/gamzenuraslan" target="_blank" rel="noopener noreferrer">
+<a href="https://www.kaggle.com/gamzenuraslan" target="blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 &nbsp;
-<a href="https://medium.com/@aslangamzenur079" target="_blank" rel="noopener noreferrer">
+<a href="https://medium.com/@aslangamzenur079" target="blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
