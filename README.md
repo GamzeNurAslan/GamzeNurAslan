@@ -8,7 +8,7 @@
 
 <div align="center">
 
-## ♡ find me here
+## ✦ let's connect
 
 <a href="https://www.linkedin.com/in/gamze-nur-aslan2707" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,7 +24,7 @@
 
 <br><br><br>
 
-## ♡ toolbox
+## ✦ languages & tools
 
 <img 
   src="https://skillicons.dev/icons?i=git,python,java,kotlin,html,css,cs,mysql,opencv&theme=dark"
